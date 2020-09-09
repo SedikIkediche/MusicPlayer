@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="played_time">0:00</string>
+    <string name="total_time">5:00</string>
+    <string name="library_activity_title">Library</string>
+    <string name="now_playing_activity_title">Now Playing</string>
+</resources>
